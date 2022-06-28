@@ -56,31 +56,7 @@ $arr_partite = [
 ];
 
 
-/*
-$arr_partite = [
-	[
-		'casa'	=> [
-			'nome'		=> 'Olimpia Milano',
-			'punteggio'	=> 55
-		],
-		'ospite'	=> [
-			'nome'		=> 'Cantù',
-			'punteggio'	=> 60
-		],
-	],
-];
-*/
-
-/*
-$arr_partite = [
-	[
-		['Roma', true, 101],
-		['Torino', false, 99],
-	],
-];
-*/
-
-// var_dump($arr_partite); ?>
+ ?>
 
 <!DOCTYPE html>
 <html lang="en">
